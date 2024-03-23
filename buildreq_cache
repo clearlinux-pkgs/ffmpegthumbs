@@ -1,6 +1,4 @@
-24.02.0
-kconfig-dev
-kio-dev
+24.02.1
 pkgconfig(libavcodec)
 pkgconfig(libavdevice)
 pkgconfig(libavfilter)
