@@ -1,7 +1,0 @@
-24.05.2
-pkgconfig(libavcodec)
-pkgconfig(libavdevice)
-pkgconfig(libavfilter)
-pkgconfig(libavformat)
-pkgconfig(libavutil)
-pkgconfig(libswscale)
